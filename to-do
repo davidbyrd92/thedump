@@ -1,0 +1,8 @@
+Have wilbanks program the switch for SCOO without IP's
+Follow up with Wing Safety about VDI
+Pull info from primary and secondary ISE servers
+Pull licenses and transfer to CD and apply to ISE servers
+Pull TCF switch config and create template for updating AAA
+Test template on SCOI switch
+Check with SCOO on new switch install and set aside /27 DATA/VOIP
+Have Wilbanks program the switch
